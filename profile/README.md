@@ -1,4 +1,4 @@
-![Aylas Community banner](https://i.imgur.com/x1tczqM.png)
+<p align="center"><img src="https://i.imgur.com/x1tczqM.png" width="75%" alt="Aylas Community banner"></p>
 
 ---
 
