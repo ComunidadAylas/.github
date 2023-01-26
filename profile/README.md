@@ -1,4 +1,4 @@
-<p align="center"><img src="https://i.imgur.com/x1tczqM.png" width="75%" alt="Aylas Community banner"></p>
+<p align="center"><img src="https://media.discordapp.net/attachments/85379323367796736/1068213981208117278/discordbanner.png" width="75%" alt="Aylas Community banner"></p>
 
 ---
 
